@@ -17,7 +17,6 @@ body {
 }
 .block_top {
     width: 100%;
-    min-height: 855px;
     background-image: url("img/main_img.png");
     background-repeat: no-repeat;
     background-size: cover;
@@ -26,6 +25,7 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
+    min-height: 100vh;
 }
 .main_header .block_inner {
     display: flex;
@@ -100,7 +100,7 @@ body {
 }
 .title_main {
     font-weight: bold;
-    font-size: 43px;
+    font-size: 72px;
     text-transform: uppercase;
     color: white;
     padding-bottom: 39px;
@@ -109,6 +109,7 @@ body {
     font-size: 24px;
     color: white;
     padding-bottom: 39px;
+    z-index: 1;
 }
 .sign_up_button {
     width: 160px;
