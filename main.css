@@ -121,3 +121,30 @@ body {
     text-transform: uppercase;
     color: #ED4C5C;
 }
+.block_video {
+    align-items: center;
+    justify-content: center;
+    max-height: 500px;
+    height: 100%;
+    max-width: 900px;
+    width: 100%;
+}
+.subblock_text-video {
+    max-width: 445px;
+    width: 100%;
+}
+.title-video {
+    font-size: 36px;
+    font-weight: 600;
+}
+.text-video {
+    font-size: 14px;
+    text-align: justify;
+}
+.video-img {
+    max-width: 478px;
+    width: 100%;
+    max-height: 311px;
+    height: 100%;
+    float: right;
+}
