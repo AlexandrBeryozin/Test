@@ -48,6 +48,7 @@ body {
     margin-right: auto;
     margin-left: auto;
     position: relative;
+    display: flex;
 }
 .buttons_main {
     display: flex;
@@ -124,14 +125,14 @@ body {
 .block_video {
     align-items: center;
     justify-content: center;
-    max-height: 500px;
-    height: 100%;
     width: 100%;
     display: flex;
+    margin-top: 94px;
 }
 .subblock_text-video {
     max-width: 445px;
     width: 100%;
+    margin-top: 80px;
 }
 .title-video {
     font-size: 36px;
@@ -140,10 +141,18 @@ body {
 }
 .text-video {
     font-size: 14px;
-    text-align: justify;
     line-height: 140%;
+    padding-bottom: 4px;
 }
 .video-img {
     max-width: 478px;
     width: 100%;
+    margin-left: auto;
+}
+.Learn_more-button {
+    font-size: 14px;
+    color: #ED4C5C;
+    background-color: transparent;
+    border: none;
+    text-align: justify;
 }
