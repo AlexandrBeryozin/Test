@@ -48,7 +48,6 @@ body {
     margin-right: auto;
     margin-left: auto;
     position: relative;
-    display: flex;
 }
 .buttons_main {
     display: flex;
@@ -155,4 +154,22 @@ body {
     background-color: transparent;
     border: none;
     text-align: justify;
+}
+.block_video .block_inner {
+    display: flex;
+}
+.features .block_inner {
+    display: flex;
+}
+.title-features {
+    font-size: 36px;
+}
+.support-card {
+    background: #FFFFFF;
+    box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    height: 198px;
+    width: 293px;
+    z-index: 1;
+    position: relative;
 }
