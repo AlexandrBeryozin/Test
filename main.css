@@ -191,7 +191,7 @@ body {
 
 .features_card {
     background: #FFFFFF;
-    box-shadow: 0px 5px 30px rgb(0, 0, 0.1);
+    box-shadow: 0 5px 30px rgb(0, 0, 0.1);
     border-radius: 8px;
     max-width: calc(100% - 56px);
     width: 100%;
@@ -226,16 +226,156 @@ padding-bottom: 20px;
 }
 .technology_red {
     position: relative;
+    display: block;
+    margin-top: -60px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 19px;
 }
 .technology_number {
-    position: absolute;
+    position: relative;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 100px;
+    line-height: 120px;
+    color: rgba(16, 16, 16, 0.08);
+    text-align: center;
+    margin-top: 42px;
 }
 .technology_blocks {
     text-align: center;
 }
 .technology_item {
     margin-right: auto;
+    margin-left: auto;
 }
 .technology-images {
     align-items: center;
+}
+.title-technology {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    text-align: center;
+    line-height: 43px;
+    padding-top: 63px;
+}
+.technology_blocks-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+}
+.technology_blocks-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    margin-top: 10px;
+}
+.apps_block-item {
+    float: left;
+    background-color: #ED4C5C;
+    align-items: center;
+    margin-right: 81px;
+}
+.apps_block {
+    margin-top: 104px;
+    max-width: 1600px;
+    width: 100%;
+    background: #ED4C5C;
+    height: 500px;
+    padding: 94px 216px 95px 165px;
+}
+.apps_block-title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    color: white;
+}
+.apps_block-info {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    color: white;
+    margin-top: 40px;
+}
+.apps-img {
+    margin-top: 55px;
+}
+.name {
+    display: flex;
+}
+.contact-title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+}
+.contact-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    margin-top: 50px;
+}
+.contact {
+    margin-top: 117px;
+    margin-left: 175px;
+}
+.contact-item {
+    float: left;
+    margin-right: 125px;
+    max-width: 540px;
+    width: 100%;
+
+}
+.name {
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-right: 30px;
+    width: 255px;
+    height: 45px;
+    display: flex;
+    padding-left: 30px;
+
+}
+.input {
+    margin-top: 24px;
+    width: 540px;
+    height: 45px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding-left: 30px;
+}
+.name_block {
+    display: flex;
+}
+.service_select {
+    width: 540px;
+    height: 45px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-top: 24px;
+    color: gray;
+    padding-left: 30px;
+}
+.submit {
+    background: #ED4C5C;
+    border: 1.5px solid #ED4C5C;
+    box-sizing: border-box;
+    border-radius: 6px;
+    width: 160px;
+    height: 50px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: white;
+    margin-top: 27px;
 }

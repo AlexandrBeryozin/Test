@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06c8913e-2d3c-4e5e-b4f8-4644a46f2cf8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cloudred.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/csv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pdf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/apps.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cards.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/linkedin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/slider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/twitter.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
@@ -55,6 +53,9 @@
       <recent name="C:\Users\alex\Test\img" />
       <recent name="C:\Users\alex\Test" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alex\Test\img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -81,7 +82,18 @@
       <workItem from="1619776507815" duration="636000" />
       <workItem from="1620038061306" duration="6892000" />
       <workItem from="1620123086833" duration="1022000" />
-      <workItem from="1620127054650" duration="2248000" />
+      <workItem from="1620127054650" duration="3775000" />
+      <workItem from="1620133006948" duration="594000" />
+      <workItem from="1620213784192" duration="165000" />
+      <workItem from="1620213957535" duration="642000" />
+      <workItem from="1620292913354" duration="100000" />
+      <workItem from="1621107163570" duration="394000" />
+      <workItem from="1621943335983" duration="1782000" />
+      <workItem from="1621945145762" duration="1843000" />
+      <workItem from="1621947060318" duration="1795000" />
+      <workItem from="1621948882180" duration="1785000" />
+      <workItem from="1621950696582" duration="1783000" />
+      <workItem from="1621952505676" duration="853000" />
     </task>
     <servers />
   </component>
