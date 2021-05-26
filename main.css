@@ -325,7 +325,7 @@ padding-bottom: 20px;
 }
 .contact {
     padding-top: 117px;
-    padding-left: 175px;
+    padding-bottom: 120px;
 }
 .contact-item {
     margin-right: 125px;
@@ -381,14 +381,11 @@ padding-bottom: 20px;
     margin-top: 27px;
 }
 .information_block {
-height: 850px;
-    padding: 0 196px 86px 250px;
-
+    padding: 85px 0;
+background-color: #FAFAFA;
 }
 
 .information_item {
-    float: left;
-    margin-top: 250px;
     max-width: 254px;
     width: 100%;
 }
@@ -420,5 +417,8 @@ height: 850px;
     line-height: 14px;
 }
 .apps_block .block_inner {
+    display: flex;
+}
+.information_block .block_inner {
     display: flex;
 }
