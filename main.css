@@ -221,6 +221,9 @@ padding-bottom: 20px;
     padding-top: 60px;
     padding-bottom: 60px;
 }
+.technology_block {
+    padding: 65px 0 100px;
+}
 .technology_blocks {
     display: flex;
 }
@@ -258,7 +261,7 @@ padding-bottom: 20px;
     font-size: 36px;
     text-align: center;
     line-height: 43px;
-    padding-top: 63px;
+    /*padding-top: 63px;*/
 }
 .technology_blocks-title {
     font-style: normal;
@@ -274,17 +277,13 @@ padding-bottom: 20px;
     margin-top: 10px;
 }
 .apps_block-item {
-    float: left;
     background-color: #ED4C5C;
     align-items: center;
     margin-right: 81px;
 }
 .apps_block {
-    margin-top: 104px;
-    max-width: 1600px;
     width: 100%;
     background: #ED4C5C;
-    height: 500px;
     padding: 94px 216px 95px 165px;
 }
 .apps_block-title {
@@ -321,12 +320,14 @@ padding-bottom: 20px;
     line-height: 140%;
     margin-top: 50px;
 }
+.contact .block_inner {
+    display: flex;
+}
 .contact {
-    margin-top: 117px;
-    margin-left: 175px;
+    padding-top: 117px;
+    padding-left: 175px;
 }
 .contact-item {
-    float: left;
     margin-right: 125px;
     max-width: 540px;
     width: 100%;
@@ -417,4 +418,7 @@ height: 850px;
     font-weight: normal;
     font-size: 12px;
     line-height: 14px;
+}
+.apps_block .block_inner {
+    display: flex;
 }
