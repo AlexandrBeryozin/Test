@@ -379,3 +379,42 @@ padding-bottom: 20px;
     color: white;
     margin-top: 27px;
 }
+.information_block {
+height: 850px;
+    padding: 0 196px 86px 250px;
+
+}
+
+.information_item {
+    float: left;
+    margin-top: 250px;
+    max-width: 254px;
+    width: 100%;
+}
+.information_title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+}
+.information_text {
+    margin-top: 33px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 200%;
+    margin-bottom: 11px;
+}
+.link {
+    padding-right: 11px;
+}
+.cards {
+    margin-top: 33px;
+}
+.copyright {
+    margin-top: 141px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+}
